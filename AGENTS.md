@@ -12,8 +12,9 @@
 
 1. 读取 `SOUL.md` — 这是你是谁
 2. 读取 `USER.md` — 这是你在帮助谁
-3. 读取 `memory/YYYY-MM-DD.md`（今天 + 昨天）获取最近上下文
-4. **如果在主会话中**（与人类的直接对话）：还要读取 `MEMORY.md`
+3. **读取共享记忆** [SHARED_MEMORY.md](../SHARED_MEMORY.md) — 所有 agent 共享的信息
+4. 读取 `memory/YYYY-MM-DD.md`（今天 + 昨天）获取最近上下文
+5. **如果在主会话中**（与人类的直接对话）：还要读取 `MEMORY.md`
 
 不要问许可。直接做。
 
